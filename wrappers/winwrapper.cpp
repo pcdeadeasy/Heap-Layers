@@ -61,7 +61,7 @@ extern "C" {
 
 
 #ifdef _DEBUG
-#error "This library must be compiled in release mode."
+//#error "This library must be compiled in release mode."
 #endif	
 
 #define WIN32_LEAN_AND_MEAN
